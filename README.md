@@ -4,11 +4,14 @@ This project part of Data Analysis Professional from Udacity powered by FWD (V 1
 Description:
 
    It discovers and analyzes the data of medical appointments in Brazil
+   
 Input:
 
   Data as csv file.
   
-Conclusions:  Many factors lead to a decrease in the rate of patient presence rate, but some of them have a slight effect, the most important of which are:
+Conclusions:  
+
+Many factors lead to a decrease in the rate of patient presence rate, but some of them have a slight effect, the most important of which are:
 
 1- The age of the patient
 
